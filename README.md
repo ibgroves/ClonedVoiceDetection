@@ -158,3 +158,14 @@ Please cite the following paper if you use this code:
       primaryClass={cs.SD}
 }
 ```
+
+
+Installed on JADE 16/07/24:
+
+- lots of dependencies version requirements changed
+
+Module load python/anaconda3
+Module load gcc
+Create new env
+pip install -r requirements.txt 
+Might have to remove the locally installed files
