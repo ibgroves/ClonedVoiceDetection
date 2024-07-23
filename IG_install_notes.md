@@ -2,7 +2,7 @@ Notebook on installations
 
 ```rb
   conda create -n cvd pip python==3.8
-  pip install requirements.txt
+  pip install ig_requirements.txt
 ```
 NB. I had to resolve a lot of dependency conflicts to get this to install, and loosen several package reqs by editing the requirements file.
 
